@@ -24,8 +24,9 @@ I am self-taught software developer that loves to create captivating and fully f
 ---
 
 ### Languages and Tools 🔨
-
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<br />
+<div>
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -35,9 +36,14 @@ I am self-taught software developer that loves to create captivating and fully f
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<br />
+</div>
 
-### 📺 Latest YouTube Videos
+<br /> 
+<br /> 
+<br /> 
+
+### 📺 Latest YouTube Videos - Updating in Real Time
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![The BEST Way To Create Server Actions - Next.js](https://ytcards.demolab.com/?id=QkDYn6b09I4&title=The+BEST+Way+To+Create+Server+Actions+-+Next.js&lang=en&timestamp=1719980598&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The BEST Way To Create Server Actions - Next.js")](https://www.youtube.com/watch?v=QkDYn6b09I4)
